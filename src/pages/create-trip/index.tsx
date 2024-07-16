@@ -111,7 +111,7 @@ export function CreateTripPage() {
     <div className="h-screen flex items-center justify-center bg-pattern bg-no-repeat bg-center">
       <div className="max-w-3xl w-full px-6 text-center space-y-10">
         <div className="flex flex-col items-center gap-3">
-          <img src="/NLW-Journey/blob/main/public/logo.svg" alt="plann.er" />
+          <img src="https://github.com/alinebeatrizw/NLW-Journey/blob/6d0f3d634954e879e48571305729fcced75ba6d0/public/logo.svg" alt="plann.er" />
           <p className="text-zinc-300 text-lg">
             Convide seus amigos e planeje sua próxima viagem!
           </p>
