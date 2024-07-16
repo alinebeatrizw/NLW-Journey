@@ -4,11 +4,11 @@ import { TripDetailsPage } from "./pages/trip-details"
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/NLW-Journey/",
     element: <CreateTripPage />
   },
   {
-    path: "/trips/:tripId",
+    path: "/NLW-Journey/trips/:tripId",
     element: <TripDetailsPage />
   },
 ])
