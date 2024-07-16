@@ -1,9 +1,9 @@
-{
+{ 
+  "homepage": "https://alinebeatrizw.github.io/NLW-Journey-2/",
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "NLW-Journey-2/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
